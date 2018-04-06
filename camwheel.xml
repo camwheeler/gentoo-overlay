@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+ <repo priority="50" quality="experimental" status="unofficial">
+  <name>camwheel</name>
+  <description>Packages camwheeler has created at https://github.com/camwheeler/gentoo-overlay</description>
+  <homepage>https://github.com/camwheeler/gentoo-overlay</homepage>
+  <source type="git">git://github.com/camwheeler/gentoo-overlay.git</source>
+ </repo>
+</repositories>
