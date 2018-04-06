@@ -1,6 +1,7 @@
 # gentoo-overlay
 Packages that I need and either don't exist or maintainers don't update frequently enough.
 
+ * WIP: Not ready for use yet.
 To add this to your list of overlays, as root, run the following
 
 ```
